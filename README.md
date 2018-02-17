@@ -1,2 +1,2 @@
 # Doll-clone
-Chnages to an already existing example on the internet
+Changes to an already existing example on the internet
